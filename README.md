@@ -4,6 +4,7 @@ Hello! こんにちは.
 
 # Link
 * [Twitter](https://twitter.com/shigure_alicey)
+* [Instagram](https://www.instagram.com/yoshino_alicey_/)
 * [Blog](https://blog.alicey.dev/)
 * [PortalSite](https://alicey.dev/)
 
@@ -54,6 +55,7 @@ Hello! こんにちは.
 
 ## 気になってる
 * Kubernetes
+* OpenStack
 * Go
 * OracleCloud
 * BGP
