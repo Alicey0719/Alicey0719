@@ -15,7 +15,9 @@ Hello! こんにちは.
 * 甘いもの食べる　
 
 # 技術
-## 言語
+少し触れた程度から、普段取り組んでいるものまで。
+
+## プログラミング
 * Ruby (Rails)
 * Python
 * JavaScript (vue.js, Express等)
@@ -27,12 +29,27 @@ Hello! こんにちは.
 
 ## サーバ系
 * Linux (RHEL系が好き)
-* WindowsServer
+* Windows Server
+* VMWare ESXi
 * nginx
+* zabbix
 * minecraft
+* HP Proliant
+
+## NW系
+* Cisco Aironet
+* Aruba AP
+* NEC UNIVERGE IX
+* YAMAHA RTX
+* Mikrotik Cloud Router Switch
+
+## Creative
+* Adobe CreativeCloud (Ae, Pr, Ps, Ai, Au)
 
 ## その他
 * Docker
+* Git
+* Heroku
 
 ## 気になってる
 * Kubernetes
