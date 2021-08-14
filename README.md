@@ -30,7 +30,7 @@ Hello! こんにちは.
 ## サーバ系
 * Linux (RHEL系が好き)
 * Windows Server
-* VMWare ESXi
+* VMware ESXi
 * nginx
 * zabbix
 * minecraft
@@ -42,6 +42,7 @@ Hello! こんにちは.
 * NEC UNIVERGE IX
 * YAMAHA RTX
 * Mikrotik Cloud Router Switch
+* VyOS
 
 ## Creative
 * Adobe CreativeCloud (Ae, Pr, Ps, Ai, Au)
