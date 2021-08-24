@@ -63,7 +63,7 @@ Hello! こんにちは.
 # 所属
 ## 現在の所属
 * 日本のどこかにある大学
-* ありぷろ
+* [ありぷろ](https://alipro.alicey.dev)
 * [スズプロ](https://github.com/s-project2021)
 
 ## 過去の所属
