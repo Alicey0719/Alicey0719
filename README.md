@@ -32,6 +32,8 @@ Hello! こんにちは.
 * Linux (RHEL系が好き)
 * Windows Server
 * VMware ESXi
+* Proxmox
+* TrueNAS
 * nginx
 * zabbix
 * minecraft
