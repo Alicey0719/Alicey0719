@@ -54,6 +54,7 @@ Hello! こんにちは.
 * Docker
 * Git
 * Heroku
+* Vercel
 
 ## 気になってる
 * Kubernetes
