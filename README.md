@@ -6,6 +6,7 @@ Hello! こんにちは.
 * [Twitter](https://twitter.com/shigure_alicey)
 * [Instagram](https://www.instagram.com/yoshino_alicey_/)
 * [Blog](https://blog.alicey.dev/)
+* [Portfolio](https://pf.alicey.dev/)
 * [PortalSite](https://alicey.dev/)
 
 # 趣味
@@ -61,7 +62,6 @@ Hello! こんにちは.
 * OpenStack
 * Go
 * OracleCloud
-* BGP
 
 # 所属
 ## 現在の所属
