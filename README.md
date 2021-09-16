@@ -6,7 +6,7 @@ Hello! こんにちは.
 * [Twitter](https://twitter.com/shigure_alicey)
 * [Instagram](https://www.instagram.com/yoshino_alicey_/)
 * [Blog](https://blog.alicey.dev/)
-* [Portfolio](https://pf.alicey.dev/)
+* [Portfolio](https://pf.alicey.dev/)(製作途中)
 * [PortalSite](https://alicey.dev/)
 
 # 趣味
