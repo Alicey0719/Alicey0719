@@ -1,12 +1,15 @@
 # ちゃろー☆
 Hello! こんにちは.  
-ありしぃの所属やら使用したことのある技術やたSNSのリンクやらをまとめておきます。  
+ありしぃの所属やら使用したことのある技術やたSNSのリンクやらをまとめておきます。 
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Alicey0719&show_icons=true&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alicey0719&layout=compact)
 
 # Link
 * [Twitter](https://twitter.com/shigure_alicey)
 * [Instagram](https://www.instagram.com/yoshino_alicey_/)
 * [Blog](https://blog.alicey.dev/)
-* [Portfolio](https://pf.alicey.dev/)(製作途中)
+* [Portfolio](https://pf.alicey.dev/)
 * [PortalSite](https://alicey.dev/)
 
 # 趣味
@@ -20,8 +23,8 @@ Hello! こんにちは.
 少し触れた程度から、普段取り組んでいるものまで。
 
 ## プログラミング
-* Ruby (Rails)
 * Python
+* Ruby (Rails)
 * JavaScript (vue.js, Express等)
 * Java
 * C
@@ -30,7 +33,7 @@ Hello! こんにちは.
 * HTML, css
 
 ## サーバ系
-* Linux (RHEL系が好き)
+* Linux
 * Windows Server
 * VMware ESXi
 * Proxmox
@@ -46,7 +49,6 @@ Hello! こんにちは.
 * NEC UNIVERGE IX
 * YAMAHA RTX
 * Mikrotik Cloud Router Switch
-* VyOS
 
 ## Creative
 * Adobe CreativeCloud (Ae, Pr, Ps, Ai, Au)
@@ -61,7 +63,6 @@ Hello! こんにちは.
 * Kubernetes
 * OpenStack
 * Go
-* OracleCloud
 
 # 所属
 ## 現在の所属
