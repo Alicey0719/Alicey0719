@@ -68,10 +68,10 @@ Hello! こんにちは.
 ## 現在の所属
 * 日本のどこかにある大学
 * [ありぷろ](https://alipro.alicey.dev)
-* [スズプロ](https://github.com/s-project2021)
 
 ## 過去の所属
-* [サイバーエージェントインターン](https://www.cyberagent.co.jp/careers/students/event/detail/id=26120)
+* [サイバーエージェントのインターン](https://www.cyberagent.co.jp/careers/students/event/detail/id=26120)
+* [スズプロ](https://github.com/s-project2021)
 * 不動産系のインターン
 * 役所のアルバイト
 * 工業高校(情報工学)
