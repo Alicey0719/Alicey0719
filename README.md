@@ -20,8 +20,6 @@ Hello! こんにちは.
 * 甘いもの食べる　
 
 # 技術
-少し触れた程度から、普段取り組んでいるものまで。
-
 ## プログラミング
 * Python
 * Ruby (Rails)
@@ -54,15 +52,17 @@ Hello! こんにちは.
 * Adobe CreativeCloud (Ae, Pr, Ps, Ai, Au)
 
 ## その他
+* Kubernetes
 * Docker
 * Git
 * Heroku
 * Vercel
 
 ## 気になってる
-* Kubernetes
 * OpenStack
 * Go
+* Rust
+* kubevirt
 
 # 所属
 ## 現在の所属
@@ -71,8 +71,9 @@ Hello! こんにちは.
 * [スズプロ](https://github.com/s-project2021)
 
 ## 過去の所属
+* [サイバーエージェントインターン](https://www.cyberagent.co.jp/careers/students/event/detail/id=26120)
 * 不動産系のインターン
-* お役所のアルバイト
+* 役所のアルバイト
 * 工業高校(情報工学)
 
 
