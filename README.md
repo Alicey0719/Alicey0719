@@ -3,6 +3,7 @@
 
 # Link
 * [Twitter](https://twitter.com/shigure_alicey)
+* [Misskey.io](https://misskey.io/@alicey)
 * [Instagram](https://www.instagram.com/yoshino_alicey_/)
 * [Blog](https://blog.alicey.dev/)
 * [PortalSite](https://alicey.dev/)
