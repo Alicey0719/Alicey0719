@@ -1,4 +1,4 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Alicey0719&show_icons=true&count_private=true)
+![GitHub Stats Card](https://github-readme-stats.app.alicey.dev/api?username=Alicey0719&show_icons=true&count_private=true)
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alicey0719&layout=compact&langs_count=8) -->
 
 # Link
