@@ -11,6 +11,7 @@
 
 # Tools
 * [mcskin](https://mcskin.alicey.dev/)
+* [mcinfo](https://mcinfo.alicey.dev/)
 
 <!--
 **Alicey0719/Alicey0719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
